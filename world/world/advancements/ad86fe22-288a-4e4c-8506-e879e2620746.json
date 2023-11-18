@@ -7,7 +7,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:dripstone_caves": "2023-11-09 16:07:40 +0530"
+      "minecraft:dripstone_caves": "2023-11-09 16:07:40 +0530",
+      "minecraft:forest": "2023-11-11 20:16:26 +0530"
     },
     "done": false
   },
@@ -114,12 +115,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2023-11-09 17:59:15 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2023-11-09 17:20:20 +0530"
@@ -135,6 +130,30 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2023-11-09 17:20:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2023-11-09 17:59:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2023-11-12 19:25:15 +0530"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-11-12 19:25:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-11-12 19:25:14 +0530"
     },
     "done": true
   },
